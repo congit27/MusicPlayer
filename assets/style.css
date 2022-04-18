@@ -118,26 +118,6 @@ html {
     background-color: var(--primary-color);
 }
 
-.repeat-btn {
-
-}
-
-.prev-btn {
-
-}
-
-.toggle-play {
-
-}
-
-.next-btn {
-
-}
-
-.random-btn {
-
-}
-
 .progress {
     width: 100%;
     -webkit-appearance: none;
@@ -204,10 +184,6 @@ html {
 .song .song-name {
     font-size: 18px;
     color: #999;
-}
-
-.author {
-
 }
 
 .song .option {
