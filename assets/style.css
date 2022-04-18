@@ -138,10 +138,9 @@ html {
     cursor: pointer;
 }
 
-.playlists {
+.playlist {
     margin-top: 408px;
     padding: 12px;
-
 }
 
 .song {
@@ -159,12 +158,12 @@ html {
 }
 
 .song:active {
-    opacity: 0.8;
+    opacity: 0.5;
 }
 
 .song.active .option,
 .song.active .author,
-.song.active.title {
+.song.active .song-name {
     color: #fff;
 }
 
@@ -183,7 +182,7 @@ html {
 
 .song .song-name {
     font-size: 18px;
-    color: #999;
+    color: #000;
 }
 
 .song .option {
